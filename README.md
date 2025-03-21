@@ -17,4 +17,4 @@ Recipe Maker is a web application that allows users to create, share, and manage
 ## 📦 Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/sritika-bhagavatula/Recipe-Maker.git
+   git clone https://github.com/RasKumarMagginoori/RecipeMaker-Website.git
